@@ -26,6 +26,7 @@ public class Linkedlistdemo {
         z.delete(7);
         z.displayList();
         z.insertFirst(11);
+        z.displayList();
         z.insertFirst(99);
         z.displayList();
         
