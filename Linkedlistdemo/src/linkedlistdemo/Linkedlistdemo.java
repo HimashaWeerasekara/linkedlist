@@ -123,7 +123,7 @@ class Linkedlist{
       current=current.next;
       i++;
    }
-        System.out.println("Keyb is out of the linked list");
+        System.out.println("Key is out of the linked list");
         return null;
  
  
