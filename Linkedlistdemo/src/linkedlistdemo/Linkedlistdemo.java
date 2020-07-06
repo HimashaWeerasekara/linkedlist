@@ -109,7 +109,7 @@ class Linkedlist{
  public Node find(int key){ // you can use if condition if the key is negative value
       if(isEmpty())
       {
-      System.out.println("Linked list is empty ,nothing to find.");
+      System.out.println("Linked list is empty, nothing to find.");
       return null;
       }
           
